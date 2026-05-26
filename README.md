@@ -39,3 +39,20 @@ POST /shorten
 Response:
 {"shortCode": "b", "shortUrl": "http://localhost:8080/b"}
 ```
+
+## Screenshots
+
+### Shorten URL API
+![Shorten URL](screenshots/shorten-api.png)
+
+### Live Redirect
+![Redirect](screenshots/redirect.png)
+
+### Click Analytics
+![Stats](screenshots/stats.png)
+
+### Database
+![MySQL](screenshots/mysql-table.png)
+
+### Redis Cache
+![Redis](screenshots/redis-cache.png)
